@@ -9,6 +9,7 @@ namespace TreinamentoGIT
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Tenha um bom dia!");
+            Console.WriteLine("Tchau!!!!");
 
             Console.ReadLine();
         }
